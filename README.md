@@ -41,7 +41,7 @@ Add-AppxPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
 
 - Ihr könnt mein einfaches Paket für individuelles Windows-11-Theming [hier](https://www.mediafire.com/file/7z9fj1xqz3qsugu/SynthWave+84+Theme+Win+11+2+(better).zip/file) herunterladen. Es enthält ein Tutorial (ggf. mit kleinen Fehlern), um sauberes, stilvolles Theming für Windows 11 zu ermöglichen.
 
-Links zum Custom Theming:
+Links zum Custom Theming 1:
 
 - [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php)
 - [UltraSecureThemePatcher](https://github.com/namazso/SecureUxTheme/releases/latest)
@@ -57,3 +57,10 @@ Links zum Custom Theming:
 - [Start11v2](https://www.stardock.com/products/start11/)
 - [Rainmeter](https://www.rainmeter.net/)
 - [one Rainmeter Skin](https://github.com/modkavartini/catppuccin/releases/latest)
+
+Links zum Custom Theming 2:
+
+- [Rectify11](https://rectify11.net/home)
+- [White Inverted II Cursor](https://mega.nz/file/xW0jyYoS#jXJbt8TNidCDc4KhiJCePRR5_0PO0qXRDwgU-RDjUcQ)
+- [Files](https://duckduckgo.com/?q=files+download&t=bravened&ia=web)
+- [Start11v2](https://www.stardock.com/products/start11/)
